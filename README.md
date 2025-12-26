@@ -17,6 +17,8 @@ I am a Software Architect, Principal Software Developer and Self-hosting hobbyis
 
 ## Technical Interests
 **Current**
+- Self-hosting on Linux distro, with IaC
+- Microsoft Azure Cloud
 - Infrastructure as Code (Terraform, Bicep)
 - CI/CD systems and release engineering
 - Multi-tenant SaaS design

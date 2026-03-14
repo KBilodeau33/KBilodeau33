@@ -13,7 +13,7 @@ I am a Software Architect, Principal Software Developer and Self-hosting hobbyis
 - Infrastructure as Code and CI/CD
 - DevSecOps, FinOps
 - Distributed systems and observability
-- Spec-driven development
+- Spec-driven development (SDD)
 - Agentic Software Engineering workflows (Codex, GitHub Copilot, Gemini)
 - Azure-first, with self-hosted and hybrid experience
 
@@ -25,6 +25,7 @@ I am a Software Architect, Principal Software Developer and Self-hosting hobbyis
 - CI/CD systems and release engineering
 - Multi-tenant SaaS design
 - Scalability, reliability, and observability
+- Spec-driven development (SDD)
 
 **Exploring**
 - Machine learning and LLM-based systems

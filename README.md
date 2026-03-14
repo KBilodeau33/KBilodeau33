@@ -11,8 +11,10 @@ I am a Software Architect, Principal Software Developer and Self-hosting hobbyis
 - T-SQL, Modern .NET and Angular
 - Multi-tenant architectures
 - Infrastructure as Code and CI/CD
-- DevSecOps and cost-aware engineering (FinOps)
+- DevSecOps, FinOps
 - Distributed systems and observability
+- Spec-driven development
+- Agentic Software Engineering workflows (Codex, GitHub Copilot, Gemini)
 - Azure-first, with self-hosted and hybrid experience
 
 ## Technical Interests
